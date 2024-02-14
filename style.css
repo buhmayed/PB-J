@@ -1,0 +1,53 @@
+/* Css Rule */
+h1 {
+    color: darkred;
+    font-size: 36px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-decoration: underline ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    border: 2px solid;
+}
+
+ul {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 1px solid;
+
+}
+
+ol {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 1px solid;
+}
+
+html  {
+    background: purple;
+}
+
+body  {
+    background: white;
+    width: 600px;
+    margin: 25px auto;
+    border-radius: 15px;
+    padding: 25px 75px;
+    
+}
+
+.h2:hover{
+    color: darkred
+}
+
+
+
+
+
+
